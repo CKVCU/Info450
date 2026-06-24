@@ -1,4 +1,3 @@
-Here’s a clean, polished, GitHub‑ready **Markdown README** for your API examples. It’s structured, clear, and beginner‑friendly while still showing exactly what your code does.
 
 ---
 
@@ -139,10 +138,5 @@ You now have a solid foundation for working with APIs in Python.
 
 ---
 
-If you want, I can also:  
-- Add screenshots  
-- Add a table of contents  
-- Turn this into a Jupyter Notebook  
-- Add error handling and best practices  
 
 Just tell me what you want next.
