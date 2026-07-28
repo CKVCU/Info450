@@ -1,0 +1,6 @@
+pandas
+plotly
+numpy
+seaborn
+matplotlib.pyplot
+scipy.stats
